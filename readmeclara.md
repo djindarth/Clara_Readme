@@ -3259,6 +3259,12 @@ Customer wants to change the email that invite gets sent to
 
 Customer is confused about how to change their preferences
 
+## Handling Colleague-Initiated Meetings with a Different Duration
+
+- When a **colleague initiates a meeting** and requests a **different duration** than the customer's default, follow these steps:
+
+  1. **Check the previous context** of the conversation.  
+     - If the requested duration **was already mentioned**
 
 
 
