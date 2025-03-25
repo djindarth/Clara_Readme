@@ -3264,7 +3264,13 @@ Customer is confused about how to change their preferences
 - When a **colleague initiates a meeting** and requests a **different duration** than the customer's default, follow these steps:
 
   1. **Check the previous context** of the conversation.  
-     - If the requested duration **was already mentioned**
+     - If the requested duration **was already mentioned earlier**, proceed with scheduling **without notifying the customer**.  
+     - No need to send the **"Participant requests duration change"** template.  
+
+  2. **If the duration change is new or unexpected**, notify the customer using the **"Participant requests duration change"** template.  
+
+  3. **Update the calendar invite** to reflect the new duration if the meeting has already been scheduled.
+
 
 
 
